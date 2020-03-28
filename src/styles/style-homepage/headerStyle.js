@@ -52,8 +52,8 @@ export const HeaderMobileContainer = styled.div `
       color: #D2B24E;
       margin: 0 1rem;
    }
-   @media (max-width: 320px){
-      width: 320px;
+   @media (max-width: 720px){
+      width: 100%;
       display: flex;
       align-items: center;
    }

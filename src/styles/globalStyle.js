@@ -108,7 +108,6 @@ export const HeadingH1 = styled.h1 `
     }
 
 `
-
 export const Input = styled.input`
     width: 350px;
     height: 50px;
