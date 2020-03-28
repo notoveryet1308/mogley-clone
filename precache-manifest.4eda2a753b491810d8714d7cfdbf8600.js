@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a0d5e2050f7416cf1dff5070d1cab9dc",
+    "revision": "f994f3abc167ab669f230b39f0a073ac",
     "url": "/mogley-clone/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mogley-clone/static/js/2.f7fed632.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "40d175360eec2a434080",
-    "url": "/mogley-clone/static/js/main.b8329a94.chunk.js"
+    "revision": "6bc6ff7f9c86c3fb4e1c",
+    "url": "/mogley-clone/static/js/main.bffe0e28.chunk.js"
   },
   {
     "revision": "16971e39434d54fd93dd",

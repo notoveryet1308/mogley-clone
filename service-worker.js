@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mogley-clone/precache-manifest.486f0977c0db52d90068f4c5d55a0400.js"
+  "/mogley-clone/precache-manifest.4eda2a753b491810d8714d7cfdbf8600.js"
 );
 
 self.addEventListener('message', (event) => {

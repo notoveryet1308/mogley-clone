@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/mogley-clone/static/js/main.b8329a94.chunk.js",
-    "main.js.map": "/mogley-clone/static/js/main.b8329a94.chunk.js.map",
+    "main.js": "/mogley-clone/static/js/main.bffe0e28.chunk.js",
+    "main.js.map": "/mogley-clone/static/js/main.bffe0e28.chunk.js.map",
     "runtime-main.js": "/mogley-clone/static/js/runtime-main.21d861d9.js",
     "runtime-main.js.map": "/mogley-clone/static/js/runtime-main.21d861d9.js.map",
     "static/js/2.f7fed632.chunk.js": "/mogley-clone/static/js/2.f7fed632.chunk.js",
     "static/js/2.f7fed632.chunk.js.map": "/mogley-clone/static/js/2.f7fed632.chunk.js.map",
     "index.html": "/mogley-clone/index.html",
-    "precache-manifest.486f0977c0db52d90068f4c5d55a0400.js": "/mogley-clone/precache-manifest.486f0977c0db52d90068f4c5d55a0400.js",
+    "precache-manifest.4eda2a753b491810d8714d7cfdbf8600.js": "/mogley-clone/precache-manifest.4eda2a753b491810d8714d7cfdbf8600.js",
     "service-worker.js": "/mogley-clone/service-worker.js",
     "static/js/2.f7fed632.chunk.js.LICENSE.txt": "/mogley-clone/static/js/2.f7fed632.chunk.js.LICENSE.txt",
     "static/media/logo.png": "/mogley-clone/static/media/logo.1692c1c3.png",
@@ -28,6 +28,6 @@
   "entrypoints": [
     "static/js/runtime-main.21d861d9.js",
     "static/js/2.f7fed632.chunk.js",
-    "static/js/main.b8329a94.chunk.js"
+    "static/js/main.bffe0e28.chunk.js"
   ]
 }
