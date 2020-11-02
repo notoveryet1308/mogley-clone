@@ -53,7 +53,7 @@ export const HeaderMobileContainer = styled.div `
       margin: 0 1rem;
    }
    @media (max-width: 720px){
-      width: 100%;
+      width: 320px;
       display: flex;
       align-items: center;
    }

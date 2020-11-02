@@ -5,6 +5,7 @@ position: fixed;
     width: 100%;
     height: 670px;
     @media (max-width: 720px){
-        height: auto;
+        width: 320px;
+        height: 50vh;
     }
 `
